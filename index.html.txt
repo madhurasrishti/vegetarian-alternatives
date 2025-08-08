@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vegetarian Ingredient Substitutes</title>
+  <meta name="description" content="Easy and budget-friendly vegetarian ingredient substitutes and recipe ideas." />
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px; line-height: 1.6; }
+    h1 { color: #2d7a2d; }
+    ul { list-style-type: square; }
+  </style>
+</head>
+<body>
+  <h1>Easy Vegetarian Ingredient Substitutes</h1>
+  <p>Welcome! Discover budget-friendly and simple vegetarian ingredient alternatives for your favorite recipes.</p>
+  <h2>Egg Substitutes</h2>
+  <ul>
+    <li>Flaxseed Egg: 1 tbsp ground flaxseed + 3 tbsp water</li>
+    <li>Chia Egg: 1 tbsp chia seeds + 3 tbsp water</li>
+    <li>Mashed Banana: Half a banana</li>
+  </ul>
+  <h2>Meat Alternatives</h2>
+  <ul>
+    <li>Mushrooms: Great for texture in stews and burgers</li>
+    <li>Tempeh: Works well in wraps and stir-fries</li>
+    <li>Lentils & Chickpeas: Perfect for soups and salads</li>
+  </ul>
+</body>
+</html>
